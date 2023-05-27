@@ -41,7 +41,7 @@
 .hero_header .menu .menu_item a {
     color: rgb(179, 175, 172);
     text-decoration: none;
-    background-color: rgba(49, 88, 59, 0.623);
+    background-color: #31583b9f;
     padding-inline: 5px;
 
 }
@@ -81,7 +81,7 @@
 .footer {
     font-family: 'Bebas Neue', cursive;
     font-size: 15px;
-    background-color: rgba(49, 88, 59, 0.623);
+    background-color: #31583b9f;
     padding-block: 20px;
     text-align:center;    
     
