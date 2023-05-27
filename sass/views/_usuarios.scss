@@ -1,0 +1,14 @@
+.usuarios {
+    display: flex;
+    padding-left: 50px;
+}
+
+@media screen and (min-width: 210px) and (max-width: 768px) {
+   
+    .usuarios{
+       width: 280px;
+       padding-left: 15px;
+           
+   }
+   
+}
